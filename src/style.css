@@ -1,0 +1,90 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background: url('http://whatsrel.com.br/wp-content/uploads/2017/08/embaixada-dos-eua-analista-internacional-conta-sua-experiencia-no-processo-seletivo.png');
+  background-size: 100%;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  background-image: linear-gradient(to bottom, #808080, #ffffff);
+  text-align: center;
+  border-radius: 30px 0px 30px 0px;
+  padding: 20px;
+  height: 73vh;
+  margin: 5% 10% 5% 10%;
+  box-shadow: 10px 10px 10px 5px black;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+  font-size: 10vh;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
+
+.text1{
+  color: #ffffff;
+  font-size: 17px;
+  font-weight: bolder;
+  text-align: center;
+  padding-top:21px;
+}
+
+.text2{
+  color: #ffffff;
+  font-size: 17px;
+  font-weight: bolder;
+  text-align: center;
+}
+
+span{
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding: 1px 130px 1px 130px;
+  font-weight: bolder;
+}
+
+input{
+  border-radius: 5px;
+  border-color: lightgray;
+  font-size: 13px;
+  background-color: #ffffff;
+}
+
+button{
+  font-size: 16px;
+  font-weight: bolder;
+  color: #ffffff;
+  background-color: #FFD700;
+  border-color: #FFD700;
+  cursor: pointer;
+}
+button:hover{
+  border-color: #ffffff;
+}
+
+footer{
+  color: #ffffff;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bolder;
+}
